@@ -1,4 +1,4 @@
-<h1 align="center">A dedicated software developer specialising in DevOps 👋</h1>
+<h1 align="center"> "A software development enthusiast with a keen interest in DevOps. I enjoy learning by doing and continuously developing my skills" 👋</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&center=true&vCenter=true&width=435&lines=Learning%2C+Developing%2C+Sharing" alt="Typing SVG" />
