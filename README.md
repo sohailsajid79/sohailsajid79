@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools Interested In:</h3>
+<h3 align="left">Technologies and Tools I'm Interested In:</h3>
 
 <h4>Programming Languages:</h4>
 <p align="left">
@@ -62,6 +62,7 @@
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="github actions" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
 <p>
