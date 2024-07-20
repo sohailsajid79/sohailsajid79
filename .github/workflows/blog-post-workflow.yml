@@ -3,9 +3,7 @@ on:
   schedule:
     - cron: '* * * * *'
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
 jobs: 
   update-readme-with-blog: 
     name: Update this repo's README with latest blog posts
