@@ -11,6 +11,10 @@
   </a>
 </p>
 
+<h3 align="left">📕 Latest Blog Post:</h3>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sohailsajid79/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sohailsajid79/0" alt="Recent Article"> 
+<br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sohail-sajid" target="blank">
@@ -20,12 +24,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sohailsajid79" height="30" width="40" />
   </a>
 </p>
-
-<h3 align="left">📕 Latest Blog Posts:</h3>
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-<br />
 
 <h3 align="left">Technologies and Tools I'm Interested In:</h3>
 
