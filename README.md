@@ -12,8 +12,7 @@
 </p>
 
 <h3 align="left">📕 Latest Blog Post:</h3>
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sohailsajid79/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sohailsajid79/0" alt="Recent Article"> 
-<br />
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sohailsajid79/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sohailsajid79/0" alt="Recent Article">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
