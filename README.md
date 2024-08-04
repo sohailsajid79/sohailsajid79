@@ -72,5 +72,5 @@
 
 <h3 align="left">Blog Posts:</h3>
 <!-- BLOG-POST-LIST:START -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sohailsajid79/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sohailsajid79/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sohailsajid79/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sohailsajid79/1" alt="Recent Article 0"> 
 <!-- BLOG-POST-LIST:END -->
