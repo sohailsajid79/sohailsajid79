@@ -72,3 +72,6 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohailsajid79&show_icons=true&locale=en" alt="sohailsajid79" />
 </p>
+
+<h4>Support ❤️</h4>
+<a href="https://www.buymeacoffee.com/sohailsajid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
