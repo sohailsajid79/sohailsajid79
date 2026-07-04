@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sohailsajid79/sohailsajid79/main/banner.png" alt="Suhayl - DevOps Engineer" />
+  <img src="./suhayl-github-banner.png" alt="Suhayl — Automate. Orchestrate. Innovate." width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohailsajid79&show_icons=true&locale=en&layout=compact" alt="sohailsajid79" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sohailsajid79" alt="Top Langs" />
+  </a>
 </p>
